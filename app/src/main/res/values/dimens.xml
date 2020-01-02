@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textPadding">10dp</dimen>
+    <dimen name="controlMargin">10dp</dimen>
+    <dimen name="textPaddingDown">10dp</dimen>
+    <dimen name="layoutPadding">16dp</dimen>
+</resources>
